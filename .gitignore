@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# SQLite database
+*.sqlite3
+db.sqlite3
+
+# Environment variables
+.env
+
+# Django static and media files
+media/
+staticfiles/
+
+# IDE settings
+.vscode/
+.idea/
+
+# macOS system file
+.DS_Store
